@@ -135,6 +135,16 @@ The canonical FlowSignal Enterprise Architecture Library is available here:
 
 ---
 
+## Active Boundary Studies
+
+| ID | Study | Status |
+|----|-------|--------|
+| BT-001 | Runtime Authority ↔ Execution Enforcement | In Review |
+
+The first study explores whether Runtime Authority and Execution Enforcement can interoperate through a minimal signed contract while remaining independently responsible.
+
+---
+
 ## About FlowSignal
 
 FlowSignal develops Independent Runtime Authority as an enterprise architectural capability for autonomous and AI-enabled systems.
