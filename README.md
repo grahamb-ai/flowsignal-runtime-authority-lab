@@ -141,7 +141,7 @@ The canonical FlowSignal Enterprise Architecture Library is available here:
 |----|-------|--------|
 | BT-001 | Runtime Authority ↔ Execution Enforcement | In Review |
 
-The first study explores whether Runtime Authority and Execution Enforcement can interoperate through a minimal signed contract while remaining independently responsible.
+BT-001 investigates whether Runtime Authority and Execution Enforcement can interoperate through a minimal signed contract while remaining independently responsible, independently governed and independently auditable.
 
 ---
 
@@ -159,6 +159,10 @@ Repository licensing does not override contributor-specific authorship, third-pa
 
 ---
 
-**Experimental research repository — July 2026**
+**FlowSignal Runtime Authority Research Lab
+
+Experimental Research Programme
+
+July 20266**
 
 **Execute with Authority. Defend with Evidence.**
