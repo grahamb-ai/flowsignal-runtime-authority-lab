@@ -163,6 +163,6 @@ Repository licensing does not override contributor-specific authorship, third-pa
 
 Experimental Research Programme
 
-July 20266**
+July 2026**
 
 **Execute with Authority. Defend with Evidence.**
