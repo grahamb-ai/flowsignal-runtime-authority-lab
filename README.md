@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="asset/flowsignal-icon.svg" alt="FlowSignal" width="110">
+  <img src="assest/flowsignal-icon.svg" alt="FlowSignal" width="110">
 </p>
 
 <h1 align="center">FlowSignal Runtime Authority Lab</h1>
