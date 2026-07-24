@@ -2,16 +2,16 @@
 
 *Private Collaborative Boundary Study*
 
-# BT-001-boundary-study-runtime-authority-execution-enforcement
+
 **Status:** In Review  
 **Classification:** Private Collaborative Boundary Study  
 **Publication Status:** Not Yet Released  
 **Normative Status:** Non-Normative  
 **Repository Created:** July 2026
 
-**Repository Notice**
+###Repository Notice**
 
-This repository records the existence and scope of BT-001. The working paper itself is intentionally withheld from public release while technical review, contributor attribution and relevant intellectual-property activities are completed.
+This repository records the existence and scope of BT-001. The working paper itself is intentionally withheld from public release while technical review, contributor attribution and relevant intellectual-property activities and patent activities are completed.
 
 ---
 
