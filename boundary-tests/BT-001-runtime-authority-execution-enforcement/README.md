@@ -128,6 +128,11 @@ Formal contributor attribution will be confirmed upon publication.
 
 ---
 
+© 2026 The respective contributors.
+
+BT-001 is a private collaborative boundary study. All pre-existing intellectual property remains the property of its respective owner unless expressly agreed otherwise in writing.
+---
+
 ## Licence
 
 No licence is granted for the unpublished work contained within this repository.
