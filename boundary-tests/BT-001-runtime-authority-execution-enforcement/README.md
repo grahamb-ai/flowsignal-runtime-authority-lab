@@ -1,5 +1,4 @@
-# BT-001 — Runtime Authority and Execution Enforcement
-
+# BT-001-boundary-study-runtime-authority-execution-enforcement
 **Status:** In Review  
 **Classification:** Private Collaborative Boundary Study  
 **Publication Status:** Not Yet Released  
