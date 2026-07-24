@@ -21,7 +21,7 @@ BT-001 is a private architectural boundary study examining the interaction betwe
 
 The objective is to determine whether two independently designed architectural responsibilities can interoperate through a minimal, signed handover artefact while remaining independently governed, independently implemented and independently auditable.
 
-This work is exploratory and is not intended to define a standard, protocol or reference implementation.
+This work is exploratory and is not intended to define a standard, protocol, interoperability specification or reference implementation. Its purpose is to examine architectural boundaries rather than prescribe implementation.
 
 ---
 
