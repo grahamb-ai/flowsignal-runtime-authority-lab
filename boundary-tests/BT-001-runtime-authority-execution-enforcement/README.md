@@ -13,7 +13,7 @@
 
 This repository records the existence and scope of BT-001. The working paper itself is intentionally withheld from public release while independent technical review is completed, contributor attribution is finalised, and relevant intellectual-property and patent activities have concluded.
 
-BT-001 documents the architectural boundary between two independently developed responsibilities. It should not be interpreted as implying shared ownership, joint implementation or a common technology platform.
+> BT-001 examines the architectural boundary between two independently developed architectural responsibilities. It should not be interpreted as implying shared ownership, joint implementation or a common technology platform.
 ---
 
 ## Purpose
