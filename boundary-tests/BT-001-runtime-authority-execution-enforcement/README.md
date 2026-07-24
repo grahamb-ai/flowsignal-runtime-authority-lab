@@ -13,7 +13,7 @@
 
 This repository records the existence and scope of BT-001. The working paper itself is intentionally withheld from public release while independent technical review is completed, contributor attribution is finalised, and relevant intellectual-property and patent activities have concluded.
 
-**BT-001 documents the architectural boundary between two independently developed responsibilities. It should not be interpreted as implying shared ownership, joint implementation or a common technology platform.
+BT-001 documents the architectural boundary between two independently developed responsibilities. It should not be interpreted as implying shared ownership, joint implementation or a common technology platform.
 ---
 
 ## Purpose
@@ -22,7 +22,7 @@ BT-001 is a private architectural boundary study examining the interaction betwe
 
 The objective is to determine whether two independently designed architectural responsibilities can interoperate through a minimal, signed handover artefact while remaining independently governed, independently implemented and independently auditable.
 
-**This work is exploratory and is not intended to define a standard, protocol, interoperability specification or reference implementation. Its purpose is to examine architectural boundaries rather than prescribe implementation or establish normative behaviour.
+This work is exploratory and is not intended to define a standard, protocol, interoperability specification or reference implementation. Its purpose is to examine architectural boundaries rather than prescribe implementation or establish normative behaviour.
 ---
 
 ## Research Question
