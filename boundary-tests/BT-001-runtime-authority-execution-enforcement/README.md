@@ -9,6 +9,10 @@
 **Normative Status:** Non-Normative  
 **Repository Created:** July 2026
 
+**Repository Notice**
+
+This repository records the existence and scope of BT-001. The working paper itself is intentionally withheld from public release while technical review, contributor attribution and relevant intellectual-property activities are completed.
+
 ---
 
 ## Purpose
